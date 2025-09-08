@@ -1,0 +1,66 @@
+# =============================================================================
+# GITIGNORE - PROJETO NODE.JS SISTEMA DE TAREFAS
+# =============================================================================
+
+# Dependências do Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de cache
+.npm
+.eslintcache
+
+# Diretórios de build e distribuição
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs do sistema
+logs/
+*.log
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos do editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de configuração específicos do desenvolvedor
+.nodemonrc
+.nodemonrc.json
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Arquivos de teste e cobertura
+coverage/
+.nyc_output/
+.jest/
+
+# Arquivos de dados sensíveis (opcional - dependendo da estratégia)
+# data/*.json
+
+# Arquivos de sessão temporários
+sessions/
+tmp/
+temp/

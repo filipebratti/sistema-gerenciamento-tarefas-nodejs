@@ -1,0 +1,42 @@
+[
+  {
+    "id": "16415a91b91cffe195365b09d6076f16",
+    "userId": "fca828fc01bf7b121f5df6e3a87d8b50",
+    "title": "Aprender Node.js",
+    "description": "Estudar os conceitos fundamentais do Node.js, incluindo Express.js, manipulação de arquivos e APIs REST.",
+    "priority": "high",
+    "completed": true,
+    "createdAt": "2025-08-05T14:53:43.306Z",
+    "updatedAt": "2025-08-05T14:54:07.228Z"
+  },
+  {
+    "id": "ba17fdd872b70f0bfb9cbdb791baf939",
+    "userId": "543d5be165e6a80f179d53761581e169",
+    "title": "Tarefa 1",
+    "description": "Tarefa 1",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2025-09-08T01:17:46.557Z",
+    "updatedAt": "2025-09-08T01:17:46.557Z"
+  },
+  {
+    "id": "94ba53bff26f37f4fc0e0adc43666288",
+    "userId": "543d5be165e6a80f179d53761581e169",
+    "title": "Tarefa 2",
+    "description": "Tarefa 2",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2025-09-08T01:17:57.299Z",
+    "updatedAt": "2025-09-08T01:17:57.299Z"
+  },
+  {
+    "id": "e93fd83c7467e15da58b967999724468",
+    "userId": "543d5be165e6a80f179d53761581e169",
+    "title": "Tarefa 3",
+    "description": "Tarefa 3",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2025-09-08T01:18:14.853Z",
+    "updatedAt": "2025-09-08T01:18:14.853Z"
+  }
+]

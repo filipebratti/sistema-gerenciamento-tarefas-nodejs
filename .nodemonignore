@@ -1,0 +1,6 @@
+# Arquivos que o nodemon deve ignorar
+data/
+*.log
+*.tmp
+node_modules/
+.git/

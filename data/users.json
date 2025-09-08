@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fca828fc01bf7b121f5df6e3a87d8b50",
+    "username": "demo_nodejs",
+    "email": "demo@nodejs.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2025-08-05T14:51:52.097Z"
+  },
+  {
+    "id": "543d5be165e6a80f179d53761581e169",
+    "username": "teste",
+    "email": "teste@teste.com",
+    "password": "6bf1532587daffbf76e5382fb397773a560e139c6b20ae3321795d4b1631fe1b",
+    "createdAt": "2025-09-08T01:17:16.965Z"
+  }
+]
