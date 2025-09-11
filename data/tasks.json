@@ -38,5 +38,15 @@
     "completed": false,
     "createdAt": "2025-09-08T01:18:14.853Z",
     "updatedAt": "2025-09-08T01:18:14.853Z"
+  },
+  {
+    "id": "02d014574f7a89e6f1e8b2f16c90ae9e",
+    "userId": "543d5be165e6a80f179d53761581e169",
+    "title": "Tarefa 4",
+    "description": "Tarefa 4",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2025-09-11T02:49:18.321Z",
+    "updatedAt": "2025-09-11T02:49:18.321Z"
   }
 ]
